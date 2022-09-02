@@ -1,1 +1,2 @@
-# fastapi-crud
+## FastAPI - CRUD
+Simple FastAPI - CRUD api
